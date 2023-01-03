@@ -1,0 +1,162 @@
+[
+    {
+        "Poster": "https://www.themoviedb.org/t/p/original/e3GZsoinblhsJDDClA5NSvZUNfS.jpg",
+        "Titre": "Leon: The Professional",
+        "Réalisateur": "Luc Besson",
+        "Durée": 103,
+        "Production": 1994,
+        "Festivals": [
+            "Golden Reel Award",
+            "Lion tchèque"
+        ],
+        "Acteurs": [{
+            "Nom": "Jean",
+            "prénom": "Moreno",
+            "Nationalité": "Francaise"
+        }]
+    },
+    {
+        "Poster": "https://www.themoviedb.org/t/p/original/3Tf8vXykYhzHdT0BtsYTp570JGQ.jpg",
+        "Titre": "Le Parrain",
+        "Réalisateur": "Francis Ford Coppola",
+        "Durée": 175,
+        "Production": 1972,
+        "Festivals": [
+            "Oscar",
+            "Golden Globes",
+            "Grammy"
+        ],
+        "Acteurs": [{
+            "Nom": "Marlon",
+            "prénom": "Brando",
+            "Nationalité": "Américain"
+        }]
+    },
+    {
+        "Poster": "https://www.themoviedb.org/t/p/original/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+        "Titre": "Fight Club",
+        "Réalisateur": "David Fincher",
+        "Durée": 139,
+        "Production": 1999,
+        "Festivals": [
+            "Oscar",
+            "Circuit Community Awards"
+        ],
+        "Acteurs": [{
+            "Nom": "Brad",
+            "prénom": "Pitt",
+            "Nationalité": "Américain"
+        }]
+    },
+    {
+        "Poster": "https://www.themoviedb.org/t/p/original/vnkxoj58q1kz6xGghc42pKF6VwK.jpg",
+        "Titre": "Douze Hommes en colère",
+        "Réalisateur": "Sidney Lumet",
+        "Durée": 95,
+        "Production": 1957,
+        "Festivals": [],
+        "Acteurs": [{
+            "Nom": "Henry",
+            "prénom": "Fonda",
+            "Nationalité": "Américain"
+        }]
+    },
+    {
+        "Poster": "https://www.themoviedb.org/t/p/original/velWPhVMQeQKcxggNEU8YmIo52R.jpg",
+        "Titre": "The Green Mile",
+        "Réalisateur": "Frank Darabont",
+        "Durée": 189,
+        "Production": 1999,
+        "Festivals": [
+            "Oscar",
+            "Black Reel",
+            "Blockbuster Entertainment"
+        ],
+        "Acteurs": [{
+            "Nom": "Tom",
+            "prénom": "Hanks",
+            "Nationalité": "Américain"
+        }]
+    },
+    {
+        "Poster": "https://www.themoviedb.org/t/p/original/mXWklwWT4qeftVJ9SNpoDL8Ej4y.jpg",
+        "Titre": "Les Évadés",
+        "Réalisateur": "Frank Darabont",
+        "Durée": 142,
+        "Production": 1994,
+        "Festivals": [
+            "Oscar",
+            "Screen Actors Guild",
+            "American Cinema Editors"
+        ],
+        "Acteurs": [{
+            "Nom": "Morgan",
+            "prénom": "Freeman",
+            "Nationalité": "Américain"
+        }]
+    },
+    {
+        "Poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/piZOwjyk1g51oPHonc7zaQY3WOv.jpg",
+        "Titre": "V for Vendetta",
+        "Réalisateur": "James McTeigue",
+        "Durée": 132,
+        "Production": 2005,
+        "Festivals": [
+            "Saturn Award",
+            "CFCA Award"
+        ],
+        "Acteurs": [{
+            "Nom": "Hugo",
+            "prénom": "Weaving",
+            "Nationalité": "Britannique"
+        }]
+    },
+    {
+        "Poster": "https://www.themoviedb.org/t/p/original/m1Oj5qucm7KQ9qlxAFcIAUmMFPT.jpg",
+        "Titre": "Taxi Driver",
+        "Réalisateur": "Martin Scorsese",
+        "Durée": 113,
+        "Production": 1976,
+        "Festivals": [
+            "Oscar",
+            "BAFTA"
+        ],
+        "Acteurs": [{
+            "Nom": "Robert",
+            "prénom": "De Niro",
+            "Nationalité": "Américaine"
+        }]
+    },
+    {
+        "Poster": "https://www.themoviedb.org/t/p/original/3JpyVHMYrI7C9HUFcZecnlgVsXY.jpg",
+        "Titre": "Divergente",
+        "Réalisateur": "Neil Burger",
+        "Durée": 139,
+        "Production": 2014,
+        "Festivals": [
+            "Broadcast Film Critics Association",
+            "Hollywood Music In Media Awards"
+        ],
+        "Acteurs": [{
+            "Nom": "Shailene",
+            "prénom": "Woodley",
+            "Nationalité": "Américaine"
+        }]
+    },
+    {
+        "Poster": "https://www.themoviedb.org/t/p/original/iXZUPOlWwifW73ObGoSCvZ5qVSQ.jpg",
+        "Titre": "Cruella",
+        "Réalisateur": "Craig Gillespie",
+        "Durée": 134,
+        "Production": 2021,
+        "Festivals": [
+            "Oscar",
+            "Academy of Science Fiction"
+        ],
+        "Acteurs": [{
+            "Nom": "Emma",
+            "prénom": "Stone",
+            "Nationalité": "Américaine"
+        }]
+    }
+]
